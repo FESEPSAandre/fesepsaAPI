@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSQL", "ApiSQL\ApiSQL.csproj", "{096A37F2-35DD-4C3D-A859-340FC3D96187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096A37F2-35DD-4C3D-A859-340FC3D96187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096A37F2-35DD-4C3D-A859-340FC3D96187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096A37F2-35DD-4C3D-A859-340FC3D96187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096A37F2-35DD-4C3D-A859-340FC3D96187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41202EFA-83F9-48F3-AA0C-96050A1686F1}
+	EndGlobalSection
+EndGlobal
